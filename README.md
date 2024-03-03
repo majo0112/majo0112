@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hi there! I'm María José and I'm a Software Programming Technician with a background in Agroindustrial Engineering. I love programming and have honed my skills in various programming languages and technologies through personal projects and training courses. I'm always eager to learn and develop my skills further, and I'm excited to take on challenging and cutting-edge projects that allow me to contribute to the world of technology. 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mariajosepava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maríajosépava) 
